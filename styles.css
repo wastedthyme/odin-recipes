@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main-text {
+    padding: 10px 50px 10px 50px;
+}
+
